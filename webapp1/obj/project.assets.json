@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/opsusr/projects/webapp1/webapp1/webapp1.csproj",
+      "projectUniqueName": "/home/opsusr/projects/arunsridhar/webapp1/webapp1/webapp1.csproj",
       "projectName": "webapp1",
-      "projectPath": "/home/opsusr/projects/webapp1/webapp1/webapp1.csproj",
+      "projectPath": "/home/opsusr/projects/arunsridhar/webapp1/webapp1/webapp1.csproj",
       "packagesPath": "/home/opsusr/.nuget/packages/",
-      "outputPath": "/home/opsusr/projects/webapp1/webapp1/obj/",
+      "outputPath": "/home/opsusr/projects/arunsridhar/webapp1/webapp1/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/opsusr/.nuget/NuGet/NuGet.Config"
